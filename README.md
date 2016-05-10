@@ -1,5 +1,5 @@
 # w1-lab-YOURTEAM
 
-Wei Jun, Zeng
+Wei Jun
 <br>
-g4zengwe
+(This team so far has only one student.)
